@@ -1,4 +1,4 @@
-module github.com/Artem/DC_bot
+module discord_music_bot
 
 go 1.24.0
 

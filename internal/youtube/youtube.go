@@ -6,7 +6,8 @@ import (
 	"regexp"
 	"strconv"
 
-	"github.com/Artem/DC_bot/internal/player"
+	"discord_music_bot/internal/player"
+
 	"google.golang.org/api/option"
 	"google.golang.org/api/youtube/v3"
 )

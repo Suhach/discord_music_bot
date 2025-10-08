@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/Artem/DC_bot/internal/player"
+	"discord_music_bot/internal/player"
 )
 
 type Client struct {

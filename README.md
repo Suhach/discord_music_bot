@@ -1,4 +1,4 @@
-# Discord Music Bot MVP
+# Discord Music Bot
 
 Музыкальный бот для Discord с поддержкой YouTube, Spotify и SoundCloud.
 

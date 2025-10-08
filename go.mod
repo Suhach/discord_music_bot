@@ -7,7 +7,6 @@ toolchain go1.24.7
 require (
 	github.com/bwmarrin/discordgo v0.29.0
 	github.com/joho/godotenv v1.5.1
-	github.com/jonas747/dca v0.0.0-20210930103944-155f5e5f0cc7
 	github.com/zmb3/spotify/v2 v2.4.3
 	golang.org/x/oauth2 v0.31.0
 	google.golang.org/api v0.251.0
@@ -26,7 +25,6 @@ require (
 	github.com/googleapis/enterprise-certificate-proxy v0.3.6 // indirect
 	github.com/googleapis/gax-go/v2 v2.15.0 // indirect
 	github.com/gorilla/websocket v1.4.2 // indirect
-	github.com/jonas747/ogg v0.0.0-20161220051205-b4f6f4cf3757 // indirect
 	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
 	go.opentelemetry.io/auto/sdk v1.1.0 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.61.0 // indirect
@@ -40,5 +38,4 @@ require (
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20250929231259-57b25ae835d4 // indirect
 	google.golang.org/grpc v1.75.1 // indirect
 	google.golang.org/protobuf v1.36.9 // indirect
-	layeh.com/gopus v0.0.0-20210501142526-1ee02d434e32 // indirect
 )
